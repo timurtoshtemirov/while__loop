@@ -1,3 +1,4 @@
+import 'dart:math';
 String func(String a,int d){
 
   return a * d;
