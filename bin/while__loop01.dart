@@ -1,6 +1,8 @@
+String func(String a,int d){
+
+  return a * d;
+}
 void main() {
-  String a = ('timur');
-  int d = 100;
-  print(a * d);
+print(func('timur',100));
   //Print your name a hundred times
 }
